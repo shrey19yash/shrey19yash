@@ -1,4 +1,3 @@
-HEY
 <h1> Hey There, My name is Sheethanshu Shreeyash </h1> <br>
 <h3> U can call me Shrey </h3> <br>
 <hr>
