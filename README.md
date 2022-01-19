@@ -10,5 +10,5 @@
   <li> Good knoweledge of Financial market and a student of stage communication. </li> <br>
   <li> Executive member of ISTE, NITH affiliated to IIT Delhi. </li> <br>
   <li> Executive member of Hermetica, Chemical Team, NITH. </li> <br>
-  <li> NCC Navy Cadet, 1 HP NCC naval unit, Bilaspur, H.P. </li> <br>
+  <li> NCC Navy Cadet, 1 HP NCC Naval Unit, Bilaspur, H.P. </li> <br>
   </h5>
